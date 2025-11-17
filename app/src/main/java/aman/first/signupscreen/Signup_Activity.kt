@@ -39,8 +39,6 @@ class Signup_Activity : AppCompatActivity() {
 
             val user = User(etName, etId, etMail, etPass)
 
-            database.child(etId).setValue(user)
-                .addOnSuccessListener {
                     Toast.makeText(this, "Successfully Saved", Toast.LENGTH_SHORT).show()
                 }
                 .addOnFailureListener {
