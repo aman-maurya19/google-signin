@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "703523194778",
+    "firebase_url": "https://hellohub-cb3a4-default-rtdb.firebaseio.com",
+    "project_id": "hellohub-cb3a4",
+    "storage_bucket": "hellohub-cb3a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703523194778:android:0915ae1fb10d4739b19c23",
+        "android_client_info": {
+          "package_name": "aman.first.firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703523194778-g1gq17oe9ivjp7phkcrrfm5iv7tmpuis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aman.first.firebaseproject",
+            "certificate_hash": "ba67d78f1fa04f5cfc443b431af152a446fb3aca"
+          }
+        },
+        {
+          "client_id": "703523194778-lhcel07bbv00kfjijgc011o68pb9d8lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNApcHFNz9D_mfLloQonc1ytONzt3M98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703523194778-lhcel07bbv00kfjijgc011o68pb9d8lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703523194778:android:56ec05bebec2cf72b19c23",
+        "android_client_info": {
+          "package_name": "aman.first.hellohub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703523194778-lhcel07bbv00kfjijgc011o68pb9d8lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNApcHFNz9D_mfLloQonc1ytONzt3M98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703523194778-lhcel07bbv00kfjijgc011o68pb9d8lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703523194778:android:c4190f730db65becb19c23",
+        "android_client_info": {
+          "package_name": "aman.first.signupscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703523194778-lhcel07bbv00kfjijgc011o68pb9d8lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNApcHFNz9D_mfLloQonc1ytONzt3M98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703523194778-lhcel07bbv00kfjijgc011o68pb9d8lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703523194778:android:206b72d818ff3470b19c23",
+        "android_client_info": {
+          "package_name": "aman.first.traveldiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703523194778-lhcel07bbv00kfjijgc011o68pb9d8lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNApcHFNz9D_mfLloQonc1ytONzt3M98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703523194778-lhcel07bbv00kfjijgc011o68pb9d8lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
